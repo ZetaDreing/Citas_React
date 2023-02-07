@@ -1,7 +1,7 @@
 function Header(){
     return(
         <>
-        <h1 className = "font-black text-5xl text-center md:w-2/3 mx-auto ">Siguimiento pacientes <span className = "text-indigo-600">veterinaria</span></h1>
+        <h1 className = "font-black text-5xl text-center md:w-2/3 mx-auto ">Siguimiento pacientes{' '} con GitHub{' '} <span className = "text-indigo-600">veterinaria</span></h1>
         </>
 
     )
